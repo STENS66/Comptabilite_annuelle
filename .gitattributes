@@ -1,3 +1,2 @@
 *.py linguist-language=Python 
-*.tcl linguist-language=Python
-*.tcl linguist-generated=true 
+*.tcl linguist-vendored 
