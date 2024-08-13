@@ -29,7 +29,7 @@ Cela permet aux individus plus expérimentés de créer d'autres tableaux ou ét
 
 ## Installation (pour un ordinateur Windows, un système d'exploitation 64 bits et un processeur x64)
 
-Il s'agit d'une installation portable qui peut être utilisée directement sans droits d'administrateur. Vous pouvez la télécharger via le bouton vert "Code". Pour utiliser cette application, accédez au dossier "Comptabilité", puis double-cliquez sur le fichier "Comptabilité.exe".
+Il s'agit d'une installation portable qui peut être utilisée directement sans droits d'administrateur. Pour la télécharger, il suffit de cliquer sur le bouton vert "Code" et de choisir "Download ZIP". Pour utiliser cette application, accédez au dossier "Comptabilité", puis double-cliquez sur le fichier "Comptabilité.exe".
 
 ## Contact
 
