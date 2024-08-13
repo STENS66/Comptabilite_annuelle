@@ -1,0 +1,30 @@
+Comptabilité_annuelle - Version française 1.0
+
+Copyright © Gaëtan Sencie 2023
+Tous droits réservés.
+
+Le présent logiciel et tous les fichiers associés (ci-après le "Logiciel") sont la propriété exclusive de Gaëtan Sencie (ci-après l'"Auteur"). Le Logiciel est protégé par les lois belges et internationales relatives aux droits d'auteur et aux conventions internationales.
+
+1. Droits d'utilisation :
+   L'Utilisateur est autorisé à utiliser le Logiciel pour son usage personnel uniquement. Toute distribution, copie, modification, ou utilisation commerciale du Logiciel, en tout ou en partie, est strictement interdite sans l'autorisation écrite préalable de l'Auteur.
+
+2. Redistribution :
+   La redistribution du Logiciel, sous sa forme originale ou modifiée, est interdite sans le consentement explicite de l'Auteur. Toute tentative de vendre, louer, prêter ou transférer le Logiciel à un tiers sans l'accord de l'Auteur constitue une violation des droits d'auteur.
+
+3. Modifications :
+   L'Utilisateur n'est pas autorisé à modifier, décompiler, désassembler ou désosser le Logiciel en tout ou en partie.
+
+4. Exclusion de garantie :
+   Le Logiciel est fourni "en l'état", sans garantie d'aucune sorte, expresse ou implicite, y compris, mais sans s'y limiter, les garanties de qualité marchande, d'adéquation à un usage particulier, ou de non-contrefaçon. En aucun cas, l'Auteur ne pourra être tenu responsable de tout dommage, direct ou indirect, résultant de l'utilisation ou de l'impossibilité d'utiliser le Logiciel.
+
+5. Durée de la protection :
+   Le Logiciel est protégé par le droit d'auteur pour une durée de 70 ans à compter du décès de l'Auteur, conformément aux lois belges.
+
+6. Litiges :
+   Tout litige relatif au présent contrat sera soumis à la juridiction exclusive des tribunaux belges compétents, conformément aux lois en vigueur en Belgique.
+
+Pour toute demande d'autorisation ou d'information supplémentaire, veuillez contacter l'Auteur à l'adresse suivante : app.sencie@gmail.com
+
+Le présent accord constitue l'intégralité de l'accord entre l'Utilisateur et l'Auteur concernant l'utilisation du Logiciel et remplace tout accord antérieur.
+
+Fait à Boncelles, en 2023.
