@@ -1,38 +1,42 @@
-# Comptabilité Annuelle - Version française 1.0
+# Comptabilité annuelle - Version française 1.7
 
-# Droits d'auteur © Gaëtan Sencie 2023
+# Copyright © Gaëtan Sencie 2023
 # Tous droits réservés.
 
 ## Description
 
-Le programme "Comptabilité Annuelle" est un logiciel de comptabilité simple et léger codé en Python qui permet d'avoir une vue rapide des entrées et sorties d'argent pour chaque mois.
+Le programme "Comptabilité annuelle" est un logiciel de comptabilité simple et léger qui permet d'avoir une vue rapide des entrées et sorties d'argent pour chaque mois.
 
 ### Fonctionnalités
 
-- Le logiciel est composé d'un tableau reprenant les 12 mois de l'année, où vous pouvez entrer des montants pour des entiers positifs ou négatifs, ainsi que des nombres avec jusqu'à deux décimales.
-- Vous pouvez entrer jusqu'à 2X30 montants par mois.
-- Sous chaque mois, en bas des deux colonnes qui les composent, vous pouvez laisser un commentaire sous la forme de "texte".
-- Cliquez simplement sur le bouton "Ajouter" pour mettre à jour le tableau et obtenir le montant total pour chaque mois.
-- Pour calculer le montant total pour l'année, cliquez sur le bouton "Calculer Total Annuel".
-- Vous pouvez sauvegarder et charger vos tableaux avec différents montants, soit via les boutons à gauche du tableau, soit via la barre de menu en haut de la fenêtre sous l'onglet "Fichier".
-- Les données du tableau sont sauvegardées et chargées à partir de fichiers .JSON.
-- L'onglet "Outils" vous permet de choisir d'exporter les données du tableau vers un fichier "PDF" ou vers un fichier "EXCEL" pour les utilisateurs disposant d'une licence "Microsoft Office".
-- L'onglet "Raccourcis" contient une liste de raccourcis clavier qui peuvent être utilisés, et l'onglet "Aide" contient une brève description du programme.
+- Le logiciel est composé d'un tableau reprenant les 12 mois de l'année dans lequel il est possible d'encoder des montants pour des nombres entiers positifs ou négatifs, ainsi que des nombres jusqu'à deux décimales. Vous pouvez encoder jusqu'à 2 x 30 montants par mois.
+
+- Au-dessous de chaque mois, au pied des deux colonnes qui les composent, vous pouvez laisser un commentaire de type "texte". Il suffit de cliquer sur le bouton "Ajouter" pour mettre à jour le tableau et obtenir le montant total de chaque mois.
+
+- Pour connaître le montant total sur l'année, cliquez sur le bouton "Calculer Total Annuel".
+
+- Vous pouvez sauvegarder et charger vos tableaux avec vos différents montants soit via les boutons à gauche du tableau, soit via la barre de menu en haut de la fenêtre dans l'onglet "Fichier". Les données du tableau sont sauvegardées et chargées à partir de fichiers à extension .JSON.
+
+- L'onglet "Outils" permet de choisir soit l'export des données du tableau vers un fichier "PDF", soit vers un fichier "EXCEL" pour les utilisateurs qui disposent d'une licence "Microsoft Office". Avant de pouvoir exporter vers Excel, il est nécessaire de sauvegarder d'abord son tableau. Ensuite, cliquez sur "Exporter vers Excel". Vous serez invité à sélectionner la sauvegarde que vous désirez exporter. Une fois la sauvegarde sélectionnée, encodez le nom que vous désirez pour le fichier Excel qui sera généré puis cliquez sur "Enregistrer". Dans ce fichier Excel, il y aura 2 onglets. Le premier reprend les données du tableau exportées et l'autre contient l'histogramme pour ces mêmes données.
+
+- L'onglet "Commandes" contient la liste des raccourcis clavier qui peuvent être utilisés et l'onglet "Aide" contient une brève description du programme.
 
 ## Public Cible
 
-L'objectif de ce programme est d'être convivial, permettant à un large public de l'utiliser, quel que soit son niveau de connaissance en comptabilité. Les options offertes par ce programme sont très basiques mais permettent d'avoir une vue rapide sur toutes les entrées et sorties d'argent.
+Le but de ce programme est d'être simple à utiliser. Cela permet l'utilisation du programme par un large public, quel que soit le niveau de connaissance en matière de comptabilité. Les options proposées par ce programme sont très basiques mais permettent d'avoir une vue rapide sur l'ensemble des rentrées et sorties d'argent.
 
-L'avantage de ce programme est que l'option "Exporter vers Excel" permet aux individus ayant des connaissances basiques en Excel d'avoir un accès direct à toutes les données saisies et générées par le tableau sur une première feuille Excel appelée "Comptabilité détaillée".
+L'avantage de ce programme est que l'option "Export to Excel" permet aux personnes qui ont des connaissances basiques en Excel de disposer directement de toutes les données encodées et générées par le tableau sur une première feuille Excel appelée "Comptabilité détaillée".
 
-Cela permet aux individus plus expérimentés de créer d'autres tableaux ou études statistiques basées sur les données déjà entrées dans la feuille Excel générée. De plus, il y a également un histogramme généré sur une deuxième feuille Excel appelée "Comptabilité graphique" pour ceux qui ne savent pas comment créer un tableau et qui souhaitent avoir une représentation graphique de leurs dépenses annuelles.
+Cela permet aux personnes plus expérimentées d'effectuer d'autres tableaux ou études statistiques à partir des données déjà encodées dans la feuille Excel générée. De plus, il y a également un histogramme qui est généré sur une deuxième feuille Excel appelée "Comptabilité graphique" pour ceux qui ne savent pas comment créer un tableau et qui désirent obtenir une représentation graphique de leurs dépenses annuelles.
 
-## Installation (pour un ordinateur Windows, un système d'exploitation 64 bits et un processeur x64)
+## Installation
 
-Il s'agit d'une installation portable qui peut être utilisée directement sans droits d'administrateur. Pour la télécharger, il suffit de cliquer sur le bouton vert "Code" et de choisir "Download ZIP". Pour utiliser cette application, accédez au dossier "Comptabilité", puis double-cliquez sur le fichier "Comptabilité.exe". Si vous désirez obtenir la dernière version de ce programme, sélectionnez le lien de la dernière release puis téléchargez le fichier exécutable.
+Après avoir téléchargé le fichier exécutable, faire un double clic sur le fichier pour lancer l'installation et exécuter le programme. 
+
+Note : Lors du premier lancement du programme, un dossier nommé "Sauvegarde" sera créé automatiquement dans le même dossier/répertoire que celui où se trouve le fichier d'installation. Vous pourrez ensuite pointer vers ce dossier lors des demandes d'enregistrement du programme. Si vous préférez sauvegarder dans un autre dossier, il vous suffira de pointer vers le répertoire désiré.
 
 ## Contact
 
-Pour toute question ou assistance supplémentaire, vous pouvez me contacter à l'adresse e-mail : app.sencie@gmail.com.
+Pour toute question ou assistance supplémentaire, vous pouvez me contacter à l'adresse email : app.sencie@gmail.com.
 
-Merci d'utiliser "Comptabilité Annuelle" !
+Merci d'utiliser "Comptabilité annuelle" !
