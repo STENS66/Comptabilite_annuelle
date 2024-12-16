@@ -33,7 +33,6 @@ Cela permet aux personnes plus expérimentées d'effectuer d'autres tableaux ou 
 
 Après avoir téléchargé le fichier exécutable, faire un double clic sur le fichier pour lancer l'installation et exécuter le programme. 
 
-Note : Lors du premier lancement du programme, un dossier nommé "Sauvegarde" sera créé automatiquement dans le même dossier/répertoire que celui où se trouve le fichier d'installation. Vous pourrez ensuite pointer vers ce dossier lors des demandes d'enregistrement du programme. Si vous préférez sauvegarder dans un autre dossier, il vous suffira de pointer vers le répertoire désiré.
 
 ## Contact
 
