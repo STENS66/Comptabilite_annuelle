@@ -1,4 +1,4 @@
-# Comptabilité annuelle - Version française 1.7
+# Comptabilité annuelle - Version française 1.8
 
 # Copyright © Gaëtan Sencie 2023
 # Tous droits réservés.
