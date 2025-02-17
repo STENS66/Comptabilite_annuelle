@@ -40,6 +40,8 @@ Pour toute question ou assistance supplémentaire, vous pouvez me contacter à l
 
 Merci d'utiliser "Comptabilité annuelle" !
 
+---
+
 ### Soutien financier
 
 **Adresse publique TRX :** TTcyoteRToZjoYhtuKYQ14FWeq1wicKNrF
