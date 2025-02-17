@@ -39,3 +39,18 @@ Après avoir téléchargé le fichier exécutable, faire un double clic sur le f
 Pour toute question ou assistance supplémentaire, vous pouvez me contacter à l'adresse email : app.sencie@gmail.com.
 
 Merci d'utiliser "Comptabilité annuelle" !
+
+### Soutien financier
+
+**Adresse publique TRX :** TTcyoteRToZjoYhtuKYQ14FWeq1wicKNrF
+
+**Me payer via Trust Wallet :** [Lien Trust Wallet](https://link.trustwallet.com/send?coin=195&address=TTcyoteRToZjoYhtuKYQ14FWeq1wicKNrF)
+
+**Adresse publique BTC :** bc1qv6403rkpev4yk90z8knq57uzcvrvw03cnywk3j
+
+**Me payer via Trust Wallet :** [Lien Trust Wallet](https://link.trustwallet.com/send?coin=0&address=bc1qv6403rkpev4yk90z8knq57uzcvrvw03cnywk3j)
+
+**Adresse publique SOL :** E2pmKA93wogncFE9hWqfQyWfXY2Q8kJNaogssdxccbHD
+
+**Me payer via Trust Wallet :** [Lien Trust Wallet](https://link.trustwallet.com/send?coin=501&address=E2pmKA93wogncFE9hWqfQyWfXY2Q8kJNaogssdxccbHD)
+
