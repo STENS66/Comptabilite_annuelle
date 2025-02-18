@@ -46,13 +46,13 @@ Merci d'utiliser "Comptabilité annuelle" !
 
 **Adresse publique TRX :** TTcyoteRToZjoYhtuKYQ14FWeq1wicKNrF
 
-**Me payer via Trust Wallet :** [Lien Trust Wallet](https://link.trustwallet.com/send?coin=195&address=TTcyoteRToZjoYhtuKYQ14FWeq1wicKNrF)
+**Via Trust Wallet :** [Lien Trust Wallet](https://link.trustwallet.com/send?coin=195&address=TTcyoteRToZjoYhtuKYQ14FWeq1wicKNrF)
 
 **Adresse publique BTC :** bc1qv6403rkpev4yk90z8knq57uzcvrvw03cnywk3j
 
-**Me payer via Trust Wallet :** [Lien Trust Wallet](https://link.trustwallet.com/send?coin=0&address=bc1qv6403rkpev4yk90z8knq57uzcvrvw03cnywk3j)
+**Via Trust Wallet :** [Lien Trust Wallet](https://link.trustwallet.com/send?coin=0&address=bc1qv6403rkpev4yk90z8knq57uzcvrvw03cnywk3j)
 
 **Adresse publique SOL :** E2pmKA93wogncFE9hWqfQyWfXY2Q8kJNaogssdxccbHD
 
-**Me payer via Trust Wallet :** [Lien Trust Wallet](https://link.trustwallet.com/send?coin=501&address=E2pmKA93wogncFE9hWqfQyWfXY2Q8kJNaogssdxccbHD)
+**Via Trust Wallet :** [Lien Trust Wallet](https://link.trustwallet.com/send?coin=501&address=E2pmKA93wogncFE9hWqfQyWfXY2Q8kJNaogssdxccbHD)
 
