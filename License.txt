@@ -1,4 +1,4 @@
-Comptabilité annuelle
+Simple Annual Accounting - Version Française 1.9
 
 Copyright © Gaëtan Sencie 2023
 Tous droits réservés.
@@ -36,4 +36,4 @@ Pour toute demande d’autorisation ou d’information complémentaire, veuillez
 Le présent accord constitue l'intégralité de l'accord entre l'Utilisateur et l'Auteur concernant l'utilisation du Logiciel et remplace tout accord antérieur.
 
 
-Fait à Boncelles (Belgique), 2023.
+Fait à Boncelles (Belgique), 2025.
