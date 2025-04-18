@@ -1,11 +1,12 @@
-# Comptabilité annuelle - Version française 1.8
+# Simple Annual Accounting - Version française 1.9
 
 # Copyright © Gaëtan Sencie 2023
 # Tous droits réservés.
 
 ## Description
 
-Le programme "Comptabilité annuelle" est un logiciel de comptabilité simple et léger qui permet d'avoir une vue rapide des entrées et sorties d'argent pour chaque mois.
+Le programme "Simple Annual Accounting" est un logiciel de comptabilité simple et léger qui permet d'avoir une vue rapide des entrées et sorties d'argent pour chaque mois.
+À partir de la version 1.9, l'application "Comptabilité annuelle" a été renommée en **Simple Annual Accounting** afin de garantir une meilleure cohérence avec la nomenclature des autres projets.
 
 ### Fonctionnalités
 
@@ -38,7 +39,7 @@ Après avoir téléchargé le fichier exécutable, faire un double clic sur le f
 
 Pour toute question ou assistance supplémentaire, vous pouvez me contacter à l'adresse email : app.sencie@gmail.com.
 
-Merci d'utiliser "Comptabilité annuelle" !
+Merci d'utiliser "Simple Annual Accounting" !
 
 ---
 
