@@ -6,7 +6,7 @@
 ## Description
 
 Le programme "Simple Annual Accounting" est un logiciel de comptabilité simple et léger qui permet d'avoir une vue rapide des entrées et sorties d'argent pour chaque mois.
-À partir de la version 1.9, l'application "Comptabilité annuelle" a été renommée en **Simple Annual Accounting** afin de garantir une meilleure cohérence avec la nomenclature des autres projets.
+À partir de la version 1.9, l'application "Comptabilité annuelle" a été renommée en "**Simple Annual Accounting**" afin de garantir une meilleure cohérence avec la nomenclature des autres projets.
 
 ### Fonctionnalités
 
