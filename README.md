@@ -1,4 +1,4 @@
-# Simple Annual Accounting - Version française 1.9
+# Simple Annual Accounting (anciennement Comptabilité annuelle) - Version française 1.9
 
 # Copyright © Gaëtan Sencie 2023
 # Tous droits réservés.
