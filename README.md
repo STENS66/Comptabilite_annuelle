@@ -27,6 +27,15 @@ Le programme "**Simple Annual Accounting**" est un logiciel de comptabilité **s
 * L'onglet "**Ma Boutique**" contient les liens directs vers mes autres applications Microsoft et mes projets GitHub.
 
 
+## Prévisualisation
+
+![Capture d'écran du jeu Python-Blackjack](https://github.com/STENS66/Comptabilite_annuelle/blob/main/images/image1.png?raw=true)
+
+![Capture d'écran du jeu Python-Blackjack](https://github.com/STENS66/Comptabilite_annuelle/blob/main/images/image2.png?raw=true)
+
+![Capture d'écran du jeu Python-Blackjack](https://github.com/STENS66/Comptabilite_annuelle/blob/main/images/image3.png?raw=true)
+
+
 ## Public Cible
 
 Le but de ce programme est d'être simple à utiliser. Cela permet l'utilisation du programme par un large public, quel que soit le niveau de connaissance en matière de comptabilité. Les options proposées par ce programme sont très basiques mais permettent d'avoir une vue rapide sur l'ensemble des rentrées et sorties d'argent.
@@ -35,9 +44,17 @@ L'avantage de ce programme est que l'option "**Export to Excel**" permet aux per
 
 De plus, il y a également des graphiques qui sont générés sur une deuxième feuille Excel appelée "Comptabilité graphique" pour ceux qui ne savent pas comment créer un tableau et qui désirent obtenir une représentation graphique de leurs dépenses annuelles.
 
-## Installation
+## Installation (Windows 10/11 - 64 bits)
 
-Après avoir téléchargé le fichier exécutable, faire un double clic sur le fichier pour lancer l'installation et exécuter le programme. 
+1. Téléchargez le fichier exécutable de la dernière version ici: https://github.com/STENS66/Comptabilite_annuelle/releases
+2. Double-cliquez sur le fichier téléchargé pour lancer l'installation.
+3. Suivez les instructions à l'écran pour compléter l'installation.
+
+Vous pouvez également télécharger la dernière version de l'application via le Microsoft store ici: https://apps.microsoft.com/detail/9NRT5NWBMZR6?hl=fr-be&gl=BE&ocid=pdpshare
+
+ou 
+
+effectuer l'installation directement via Winstall ici: https://winstall.app/apps/GaetanSencie.SimpleAnnualAccounting
 
 
 ## Contact
