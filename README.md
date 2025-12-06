@@ -1,4 +1,5 @@
 # Simple Annual Accounting (anciennement Comptabilité annuelle) - Version multilingue 2.1
+**Disponible sur le Microsoft Store**
 
 # Copyright © Gaëtan Sencie 2023
 # Tous droits réservés.
@@ -7,6 +8,7 @@
 
 Le programme "**Simple Annual Accounting**" est un logiciel de comptabilité **simple**, **léger** et **multilingue** qui permet d'avoir une vue rapide des entrées et sorties d'argent pour chaque mois.
 À partir de la version 1.9, l'application "Comptabilité annuelle" a été renommée en "**Simple Annual Accounting**" afin de garantir une meilleure cohérence avec la nomenclature des autres projets.
+Cette application est officiellement validée et publiée sur le **Microsoft Store**, garantissant sécurité et fiabilité.
 
 ### Fonctionnalités
 
@@ -35,6 +37,11 @@ Le programme "**Simple Annual Accounting**" est un logiciel de comptabilité **s
 
 ![Capture d'écran du jeu Python-Blackjack](https://github.com/STENS66/Comptabilite_annuelle/blob/main/images/image3.png?raw=true)
 
+### Compatibilité
+
+
+Application de bureau conçue pour Windows 10 et 11 (64 bits).
+
 
 ## Public Cible
 
@@ -44,14 +51,11 @@ L'avantage de ce programme est que l'option "**Export to Excel**" permet aux per
 
 De plus, il y a également des graphiques qui sont générés sur une deuxième feuille Excel appelée "Comptabilité graphique" pour ceux qui ne savent pas comment créer un tableau et qui désirent obtenir une représentation graphique de leurs dépenses annuelles.
 
-## Installation (Windows 10/11 - 64 bits)
+## Téléchargement
 
-1. Téléchargez le fichier exécutable de la dernière version ici: https://github.com/STENS66/Comptabilite_annuelle/releases
-2. Double-cliquez sur le fichier téléchargé pour lancer l'installation.
-3. Suivez les instructions à l'écran pour compléter l'installation.
-
-Vous pouvez également télécharger la dernière version de l'application via le Microsoft store ici: https://apps.microsoft.com/detail/9NRT5NWBMZR6?hl=fr-be&gl=BE&ocid=pdpshare
-
+- [Microsoft Store (version officielle validée)](https://apps.microsoft.com/detail/9nrt5nwbmzr6?hl=fr-be&gl=BE&ocid=pdpshare)  
+- [Releases GitHub (versions alternatives)](https://github.com/STENS66/Comptabilite_annuelle/releases) 
+ 
 ou 
 
 effectuer l'installation directement via Winstall ici: https://winstall.app/apps/GaetanSencie.SimpleAnnualAccounting
@@ -59,23 +63,18 @@ effectuer l'installation directement via Winstall ici: https://winstall.app/apps
 
 ## Contact
 
-Pour toute question ou assistance supplémentaire, vous pouvez me contacter à l'adresse email : app.sencie@gmail.com.
+- Email : app.sencie@gmail.com  
+- LinkedIn : [Gaëtan Sencie](https://www.linkedin.com/in/ga%C3%ABtan-sencie-applications-python)  
+- GitHub : [STENS66](https://github.com/STENS66)
 
 Merci d'utiliser "Simple Annual Accounting" !
 
 ---
 
-### Soutien financier
+## Références & Mots-clés
 
-**Adresse publique TRX :** TTcyoteRToZjoYhtuKYQ14FWeq1wicKNrF
+Développé par **Gaëtan Sencie**, développeur Python.  
+**Simple Annual Accounting** est officiellement disponible sur le **Microsoft Store**, sur **GitHub**, et via **Winstall**, garantissant une diffusion fiable et validée.
 
-**Via Trust Wallet :** [Lien Trust Wallet](https://link.trustwallet.com/send?coin=195&address=TTcyoteRToZjoYhtuKYQ14FWeq1wicKNrF)
-
-**Adresse publique BTC :** bc1qv6403rkpev4yk90z8knq57uzcvrvw03cnywk3j
-
-**Via Trust Wallet :** [Lien Trust Wallet](https://link.trustwallet.com/send?coin=0&address=bc1qv6403rkpev4yk90z8knq57uzcvrvw03cnywk3j)
-
-**Adresse publique SOL :** E2pmKA93wogncFE9hWqfQyWfXY2Q8kJNaogssdxccbHD
-
-**Via Trust Wallet :** [Lien Trust Wallet](https://link.trustwallet.com/send?coin=501&address=E2pmKA93wogncFE9hWqfQyWfXY2Q8kJNaogssdxccbHD)
+**Mots-clés** : comptabilité annuelle, gestion financière, suivi des dépenses, suivi des revenus, tableau mensuel, export Excel, export PDF, graphiques financiers, application multilingue, Français, Anglais, Espagnol, application hors ligne, confidentialité, sécurité des données, Windows 10, Windows 11.
 
