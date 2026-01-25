@@ -52,7 +52,7 @@ Additionally, charts are also generated on a second Excel sheet called "Graphic 
 ## Download
 
 - [Microsoft Store (Official Validated Version)](https://apps.microsoft.com/detail/9nrt5nwbmzr6?hl=en-us&gl=US)
-- [GitHub Releases (Alternative Versions)](https://github.com/STENS66/Comptabilite_annuelle/releases)
+- [GitHub Releases](https://github.com/STENS66/Comptabilite_annuelle/releases)
 
 or
 
@@ -133,7 +133,7 @@ De plus, il y a également des graphiques qui sont générés sur une deuxième 
 ## Téléchargement
 
 - [Microsoft Store (version officielle validée)](https://apps.microsoft.com/detail/9nrt5nwbmzr6?hl=fr-be&gl=BE&ocid=pdpshare)
-- [Releases GitHub (versions alternatives)](https://github.com/STENS66/Comptabilite_annuelle/releases)
+- [Releases GitHub](https://github.com/STENS66/Comptabilite_annuelle/releases)
 
 ou
 
