@@ -8,9 +8,9 @@ Only the versions listed below currently receive security updates.
 
 | Version | Supported | Notes |
 | :--- | :--- | :--- |
-| 2.1.x | ✅ | Current version |
-| 2.0.x | ❌ | Please update to v2.1 |
-| < 2.0 | ❌ | End-of-Life / Obsolete |
+| 2.2.x | ✅ | Current version |
+| 2.1.x | ❌ | Please update to v2.2 |
+| < 2.2 | ❌ | End-of-Life / Obsolete |
 
 ## Reporting a Vulnerability
 
@@ -41,9 +41,9 @@ Seules les versions listées ci-dessous bénéficient actuellement de mises à j
 
 | Version | Supportée | Notes |
 | :--- | :--- | :--- |
-| 2.1.x | ✅ | Version actuelle |
-| 2.0.x | ❌ | Veuillez mettre à jour vers la v2.1 |
-| < 2.0 | ❌ | Obsolète |
+| 2.2.x | ✅ | Version actuelle |
+| 2.1.x | ❌ | Veuillez mettre à jour vers la v2.2 |
+| < 2.2 | ❌ | Obsolète |
 
 ## Signaler une Vulnérabilité
 
