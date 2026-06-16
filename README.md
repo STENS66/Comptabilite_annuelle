@@ -1,4 +1,4 @@
-# Simple Annual Accounting (formerly Comptabilité annuelle) - Multilingual Version 2.1
+# Simple Annual Accounting (formerly Comptabilité annuelle) - Multilingual Version 2.2
 **Available on the Microsoft Store**
 
 # Copyright © Gaëtan Sencie 2023
@@ -77,7 +77,7 @@ Developed by **Gaëtan Sencie**, Python developer.
 
 ---
 
-# Simple Annual Accounting (anciennement Comptabilité annuelle) - Version multilingue 2.1
+# Simple Annual Accounting (anciennement Comptabilité annuelle) - Version multilingue 2.2
 **Disponible sur le Microsoft Store**
 
 # Copyright © Gaëtan Sencie 2023
